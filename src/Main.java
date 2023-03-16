@@ -3,6 +3,9 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
+//Nombre : Andres David Mendez Rodriguez
+//Id : 704011
+
 public class Main {
     public static void main(String[] args) {
 

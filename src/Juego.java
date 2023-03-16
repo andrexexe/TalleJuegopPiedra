@@ -1,3 +1,6 @@
+//Nombre : Andres David Mendez Rodriguez
+//Id : 704011
+
 public class Juego {
     private int papel = 1;
     private int tijera = 2;
